@@ -6,7 +6,19 @@
 	<link rel="stylesheet" type="text/css" href="../css/styles.css"></head>
 
 <body>
-
+<div class="main-contr">
+	<header class="header">
+		<img class="logo" src="/images/logo.png">
+		<div class="header-actions">
+			<p class="top-text">Звоните для заказа: <span>+7 (495) 664-97-47</span></p>
+			<p class="bottom-text">Заказ по электронной почте: <a href="mailto:info@вода.онлайн">info@вода.онлайн</a></p>
+		</div>
+	</header>
+	<section class="content">
+	</section>
+	<section class="footer">
+	</section>
+</div>
 <?php
 
 
