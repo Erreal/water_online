@@ -2,8 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="ru-RU">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<title></title>
-	<link rel="stylesheet" type="text/css" href="../css/styles.css"></head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Вода.ОНЛАЙН - доставка питьевой бутилированной воды на дом и в офис.</title>
+	<link rel="stylesheet" type="text/css" href="css/styles.css">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+</head>
 
 <body>
 <div class="main-contr">
@@ -26,7 +30,10 @@
 
 
 ?>
-
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
 </body>
 
 </html>
