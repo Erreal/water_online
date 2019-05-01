@@ -14,7 +14,10 @@
 			<p class="bottom-text">Заказ по электронной почте: <a href="mailto:info@вода.онлайн">info@вода.онлайн</a></p>
 		</div>
 	</header>
-	<section class="content">
+	<section class="content1">
+		<div class="content-container">
+
+		</div>
 	</section>
 	<section class="footer">
 	</section>
