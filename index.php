@@ -23,7 +23,7 @@
 		<div class="container">
 			<div class="content-cancel hidden-xs hidden-sm"><img class="cancel-anytime-sticker" src="images/new-cancel-anytime-program.png"> </div>
 			<div class="content-text">
-				<h1>Получите скидку 20% на первый заказ!</h1>
+				<h1>Получите скидку* 20% на первый заказ!</h1>
 				<p>Закажите воду у нас, и наслаждайтесь доставкой до двери, в удобное для вас время.</p>
 			</div>
 		</div>
@@ -50,8 +50,7 @@
              			<i class="fa fa-fw fa-check"></i> Большой ассортимент оборудования и аксессуаров
              		</p>
              	</div>
-             	<img class="bottles-coolers hidden-xs" src="images/bottles-coolers.png" />
-             </div>
+             	<img class="bottles-coolers hidden-xs" src="images/bottles-coolers.png" />             </div>
              <div class="content-city col-md-4 col-md-4 col-md-pull-8">
                 <div id="city" class="city">
              		<h3>Выберите город</h3>
@@ -59,6 +58,11 @@
              		<a onclick="submitSectionClick('1');"><input class="btn btn-lrg btn-success" type="button" value="Выбрать"></a>
              	</div>
              </div>
+		</div>
+		<div class="container">
+			<div class="footnote">
+				<p>*Предложение действительно при заказе от 3 бутылей воды и диспенсера. </p>
+			</div>
 		</div>
 	</section>
 	<section class="footer">

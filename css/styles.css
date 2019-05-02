@@ -201,6 +201,10 @@ p {
     background-color: #5cb85c;
     border-color: #4cae4c;
 }
+.footnote p {
+    font-size: 0.85em;
+    margin:25px;
+}
 @media screen and (min-width:426px)and (max-width:768px) {
     .content-text {
     	width:100%;
