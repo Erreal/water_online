@@ -7,6 +7,7 @@
 	<title>Вода.ОНЛАЙН - доставка питьевой бутилированной воды на дом и в офис.</title>
     <link href="css/styles.css" rel="stylesheet">
     <link href="css/bootstrap.min.css" rel="stylesheet">
+
 </head>
 
 <body>
@@ -62,6 +63,28 @@
 		<div class="container">
 			<div class="footnote">
 				<p>*Предложение действительно при заказе от 3 бутылей воды и диспенсера. </p>
+			</div>
+		</div>
+	</section>
+	<section class="container-fluid how-it-works">
+		<div class="container">
+			<h2>Как это работает.</h2>
+			<div class="icons">
+				<div class="col-md-4 icon">
+					<img class="icon-img" src="images/twochecks.png">
+					<h3>Посмотрите<br /> наше предложение</h3>
+					<p>Широкий выбор бутилированной воды, расходных материалов и оборудования для напитков!</p>
+				</div>
+				<div class="col-md-4 icon">
+					<img class="icon-img" src="images/finger.png">
+					<h3>Выберите<br />понравившееся вам</h3>
+					<p>Используйте наш ассортимент продуктов и оборудования для выбора необходимых вам товаров.</p>
+				</div>
+				<div class="col-md-4 icon">
+					<img class="icon-img" src="images/truck.png">
+					<h3>Получите<br />ваш заказ</h3>
+					<p>Наш курьер привезет вамш заказ в удобное время, прямо до вашей двери.</p>
+				</div>
 			</div>
 		</div>
 	</section>

@@ -236,3 +236,31 @@ p {
 	.content-text h1 {		font-size: 2.5em;	}
 
 }
+/*----------------Section2----------------*/
+.how-it-works {	background-color: #f2f2f2;
+	padding-top: 0;
+    padding-bottom: 25px;}
+.how-it-works .container h2 {	text-align:center;
+	font-size: 48px;
+	font-weight: 100;
+	padding:21px;
+}
+.icons {	padding:45px 0 75px;}
+.icon {	padding: 0 2.5%;
+    text-align: center;}
+.icon-img {
+	width:115px;
+	margin:0 auto;
+}
+.icon h3 {	font-size: 24px;
+    line-height: 28px;
+    margin: 30px auto 15px;
+    max-width: 300px;}
+.icon p {
+    font-size: 16px;
+    line-height: 1.7em;
+}
+@media screen and (max-width:426px) {	.how-it-works .container h2 {
+	font-size: 36px;
+}
+}
