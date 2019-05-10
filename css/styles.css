@@ -348,6 +348,9 @@ p {
     .wd-content h1 {
         font-size: 32px;
     }
+    .wd-image, .wd-content {
+        padding:0;
+    }
 }
 .bottled-water {
     background-color: #f2f2f2;
@@ -397,5 +400,58 @@ p {
 @media (max-width:576px) {
     .bw-content h1 {
         font-size: 32px;
+    }
+    .bw-image, .bw-content {
+        padding:0;
+    }
+}
+.water-cooler {
+    background-color: #ddd;
+
+}
+.water-cooler .container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.water-cooler .btn {
+    width: 215px;
+    padding: 12px 12px;
+    margin-bottom: 25px;
+}
+.wc-content {
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 2vw;
+    width: 80%;
+    margin: 0 auto;
+}
+.wc-content h1 {
+    font-size: 42px;
+}
+.wc-content p {
+    font-size: 17px;
+    margin: 40px 5px;
+}
+
+.wc-image {   
+    width: 100%;
+    margin: 0 auto;
+}
+.wc-img{
+    width:100%;
+}
+
+@media (max-width:1024px) {
+    .wc-image, .wc-content {
+        width:100%;
+    }
+}
+
+@media (max-width:576px) {
+    .wc-content h1 {
+        font-size: 32px;
+    }
+    .wc-image, .wc-content {
+        padding:0;
     }
 }

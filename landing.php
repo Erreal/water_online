@@ -129,6 +129,25 @@
 			</div>
 		</div>
 	</section>
+		<section class="container-fluid water-cooler">
+		<div class="container">
+			<div class="col-md-6">
+				<div class="wc-content">
+					<h1>Нужно ли мне купить кулер?</h1>
+					<p>Необходимость покупки кулера определяется в первую очередь количеством потребляемой воды и необходимостью ее нагрева и охлаждения. Кому-то бывает достаточно недорогой помпы для воды. При высоком потреблении воды лучше приобрести кулер. Так же вы можете <strong>взять кулер для воды в аренду.</strong> На рынке присутствует огромное количество оборудования для воды, позвоните, и мы посоветуем то что нужно именно вам.</p>
+					<p></p>
+					<p>
+						<a class="btn btn-success btn-lg" onclick="goToByScroll('#landing-delivery-top',25);return false;">Заказать</a>
+					</p>
+				</div>
+			</div>
+			<div class="col-md-6">
+				<div class="wc-image">
+					<img class="wc-img" src="images/water-cooler-rent-grey.jpg">
+				</div>
+			</div>
+		</div>
+	</section>
 </div>
 <?php
 
