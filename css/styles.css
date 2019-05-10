@@ -349,3 +349,53 @@ p {
         font-size: 32px;
     }
 }
+.bottled-water {
+    background-color: #f2f2f2;
+
+}
+.bottled-water .container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.bottled-water .btn {
+    width: 215px;
+    padding: 12px 12px;
+    margin-bottom: 25px;
+}
+.bw-content {
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 2vw;
+    width: 80%;
+    margin: 0 auto;
+}
+.bw-content h1 {
+    font-size: 42px;
+}
+.bw-content p {
+    font-size: 17px;
+    margin: 40px 5px;
+}
+
+.bw-image {
+    padding-left: 3%;
+    padding-right: 3%;
+    width: 80%;
+    margin: 0 auto;
+}
+.bw-img{
+    width:100%;
+    margin-top:45%;
+}
+
+@media (max-width:1024px) {
+    .bw-image, .bw-content {
+        width:100%;
+    }
+}
+
+@media (max-width:576px) {
+    .bw-content h1 {
+        font-size: 32px;
+    }
+}

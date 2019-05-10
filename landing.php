@@ -58,7 +58,7 @@
                 <div id="city" class="city">
              		<h3>Выберите город</h3>
              		<p>Пожалуйста выберите город, чтобы мы могли показать вам товары, доступные в вашей области.</p>
-             		<a onclick="submitSectionClick('1');"><input class="btn btn-lrg btn-success" type="button" value="Выбрать"></a>
+             		<a class="btn btn-success btn-lg" onclick="goToByScroll('#landing-delivery-top',25);return false;">Выбрать</a>
              	</div>
              </div>
 		</div>
@@ -110,7 +110,24 @@
 			</div>
 		</div>
 	</section>
-	<section class="footer">
+	<section class="container-fluid bottled-water">
+		<div class="container">
+			<div class="col-md-6">
+				<div class="bw-image">
+					<img class="bw-img" src="images/bottled-water-delivery.png">
+				</div>
+			</div>
+			<div class="col-md-6">
+				<div class="bw-content">
+					<h1>Почему 19-ти литровая бутилированная вода с доставкой?</h1>
+					<p><strong>Бутилированная вода в бутылях 19 литров - это удобно и экологично!</strong> Вода разливается на крупных производствах, где соблюдаются высочайшие стандарты качества и требования гигиены. Благодаря примененеию оборотной тары, сводится к нулю загрязнение окружающей среды пластиковыми отходами. Пришедшие в негодность бутыли на 100% вторично перерабатываются.</p>
+					<p></p>
+					<p>
+						<a class="btn btn-success btn-lg" onclick="goToByScroll('#landing-delivery-top',25);return false;">Заказать</a>
+					</p>
+				</div>
+			</div>
+		</div>
 	</section>
 </div>
 <?php
