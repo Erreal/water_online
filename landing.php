@@ -90,6 +90,26 @@
 			</div>
 		</div>
 	</section>
+	<section class="container-fluid water-delivery">
+		<div class="container">
+			<div class="col-md-6">
+				<div class="wd-content">
+				<h1>Что такое доставка воды от Вода.Онлайн?</h1>
+				<p><strong>Главный ответ - удобство.</strong> Не нужно ехать в магазин за водой, ждать в очереди и тащить тяжелые бутыли до машины, а потом поднимать их домой. Вежливый курьер службы достваки Вода.Онлайн привезет питьевую воду к вашей двери, в удобное для вас время!</p>
+				<p></p>
+				<p>
+					<a class="btn btn-success btn-lg" onclick="goToByScroll('#landing-delivery-top',25);return false;">Заказать</a>
+				</p>
+				</div>
+			</div>
+			<div class="col-md-6">
+				<div class="wd-image">
+					<img class="wd-img" src="images/water-delivery-boy.png">
+				</div>
+			</div>
+			</div>
+		</div>
+	</section>
 	<section class="footer">
 	</section>
 </div>
