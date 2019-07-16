@@ -17,16 +17,16 @@
 	<header class="header">
 		<img class="logo" src="/images/logo.png">
 		<div class="header-actions">
-			<p class="top-text hidden-xs">Звоните для заказа: <span>+7 (800) 000-00-00</span></p>
+			<p class="top-text hidden-xs">Звоните для заказа: <span>+7 (800) 550-99-69</span></p>
 			<p class="bottom-text hidden-xs">Заказ по электронной почте: <a href="mailto:info@вода.онлайн">info@вода.онлайн</a></p>
-			<p class="mid-text visible-xs hidden-sm hidden-md hidden-ld"><a href="tel:+78000000000">+7 (800) 000-00-00</a></p>
+			<p class="mid-text visible-xs hidden-sm hidden-md hidden-ld"><a href="tel:+78005509969">+7 (800) 550-99-69</a></p>
 		</div>
 	</header>
 	<section class="content1">
 		<div class="container">
 			<div class="content-cancel hidden-xs hidden-sm"><img class="cancel-anytime-sticker" src="images/new-cancel-anytime-program.png"> </div>
 			<div class="content-text">
-				<h1>Получите скидку* 20% на первый заказ!</h1>
+				<h1>Получите скидку* 15% на первый заказ!</h1>
 				<p>Закажите воду у нас, и наслаждайтесь доставкой до двери, в удобное для вас время.</p>
 			</div>
 		</div>
@@ -59,7 +59,7 @@
                 <div id="city" class="city">
              		<h3>Выберите город</h3>
              		<p>Пожалуйста выберите город, чтобы мы могли показать вам товары, доступные в вашей области.</p>
-             		<a class="btn btn-success btn-lg" onclick="goToByScroll('#landing-delivery-top',25);return false;">Выбрать</a>
+             		<a class="btn btn-success btn-lg" href = "https://all-coolers.ru">Выбрать</a>
              	</div>
              </div>
 		</div>
@@ -99,7 +99,7 @@
 				<p><strong>Главный ответ - удобство.</strong> Не нужно ехать в магазин за водой, ждать в очереди и тащить тяжелые бутыли до машины, а потом поднимать их домой. Вежливый курьер службы доставки Вода.Онлайн привезет питьевую воду к вашей двери, в удобное для вас время!</p>
 				<p></p>
 				<p>
-					<a class="btn btn-success btn-lg" onclick="goToByScroll('#landing-delivery-top',25);return false;">Заказать</a>
+					<a class="btn btn-success btn-lg" href = "https://all-coolers.ru/category/pitevaya-voda/">Заказать</a>
 				</p>
 				</div>
 			</div>
@@ -124,7 +124,7 @@
 					<p><strong>Бутилированная вода в бутылях 19 литров - это удобно и экологично!</strong> Вода разливается на крупных производствах, где соблюдаются высочайшие стандарты качества и требования гигиены. Благодаря примененеию оборотной тары, сводится к нулю загрязнение окружающей среды пластиковыми отходами. Пришедшие в негодность бутыли на 100% вторично перерабатываются.</p>
 					<p></p>
 					<p>
-						<a class="btn btn-success btn-lg" onclick="goToByScroll('#landing-delivery-top',25);return false;">Заказать</a>
+						<a class="btn btn-success btn-lg" href = "https://all-coolers.ru/category/pitevaya-voda/">Заказать</a>
 					</p>
 				</div>
 			</div>
@@ -135,10 +135,10 @@
 			<div class="col-md-6">
 				<div class="wc-content">
 					<h1>Нужно ли мне купить кулер?</h1>
-					<p>Необходимость покупки кулера определяется в первую очередь количеством потребляемой воды и необходимостью ее нагрева и охлаждения. Кому-то бывает достаточно недорогой помпы для воды. При высоком потреблении воды лучше приобрести кулер. Так же вы можете <strong>взять кулер для воды в аренду.</strong> На рынке присутствует огромное количество оборудования для воды, позвоните, и мы посоветуем то что нужно именно вам.</p>
+					<p>Необходимость покупки кулера определяется в первую очередь количеством потребляемой воды и необходимостью ее нагрева и охлаждения. Кому-то бывает достаточно недорогой помпы для воды. При высоком потреблении воды лучше приобрести кулер. На рынке присутствует огромное количество оборудования для воды, позвоните, и мы посоветуем то что нужно именно вам.</p>
 					<p></p>
 					<p>
-						<a class="btn btn-success btn-lg" onclick="goToByScroll('#landing-delivery-top',25);return false;">Заказать</a>
+						<a class="btn btn-success btn-lg" href="https://all-coolers.ru/category/kulery/">Заказать</a>
 					</p>
 				</div>
 			</div>
