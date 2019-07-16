@@ -2,6 +2,7 @@
 <html lang="ru">
   <head>
     <meta charset="utf-8">
+	<link rel="shortcut icon" href="favicon.ico"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Вода.ОНЛАЙН - доставка питьевой бутилированной воды на дом и в офис.</title>
